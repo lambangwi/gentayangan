@@ -1,0 +1,19 @@
+{
+  "name": "getnik",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lambangwi",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "express": "^4.18.2",
+    "puppeteer-core": "^10.4.0"
+  },
+  "devDependencies": {
+    "puppeteer": "^19.7.5"
+  }
+}
